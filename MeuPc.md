@@ -28,7 +28,7 @@
 * #### **Monitor: [AOC(21", FULLHD, 60HZ)](https://www.terabyteshop.com.br/produto/15285/monitor-aoc-215-pol-full-hd-lcd-led-60hz-vga-hdmi-e2270swhen)**
 
 -------
-* #### **Disco Rigido(HD): [Western Digital Blue(2TB, 3.5")](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115063&gclid=CjwKCAiAnIT9BRAmEiwANaoE1XXKr8cPxVALMS_wYSCi1icOCaUihMIN7JpLXekHvw12NPf4gHUoZBoCV-sQAvD_BwE)**
+* #### **Disco Rigido(HD): [Tosiba P300(1TB, 3.5")](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115206)**
 
 -------
 * #### **Mouse: [Fortrek Pro M5 RGB(4800DPI)](https://www.pichau.com.br/perifericos/mouse/mouse-gamer-fortrek-pro-m5-rgb-4800dpi-usb-64385)**
