@@ -25,7 +25,7 @@
 * #### **Gabinete: [Pichau Magpie III(3 fans inclusos)](https://www.pichau.com.br/hardware/gabinete-gamer-pichau-magpie-iii-lateral-frontal-vidro-led-vermelho-pgma-03-red)**
 
 -------
-* #### **Monitor: [AOC(21", FULLHD, 60HZ)](https://www.terabyteshop.com.br/produto/15285/monitor-aoc-215-pol-full-hd-lcd-led-60hz-vga-hdmi-e2270swhen)
+* #### **Monitor: [AOC(21", FULLHD, 60HZ)](https://www.terabyteshop.com.br/produto/15285/monitor-aoc-215-pol-full-hd-lcd-led-60hz-vga-hdmi-e2270swhen)**
 
 -------
 * #### **Disco Rigido(HD): [Western Digital Blue(2TB, 3.5")](https://www.kabum.com.br/cgi-local/site/produtos/descricao_ofertas.cgi?codigo=115063&gclid=CjwKCAiAnIT9BRAmEiwANaoE1XXKr8cPxVALMS_wYSCi1icOCaUihMIN7JpLXekHvw12NPf4gHUoZBoCV-sQAvD_BwE)**
